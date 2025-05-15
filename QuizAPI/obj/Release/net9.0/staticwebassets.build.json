@@ -1,0 +1,4308 @@
+{
+  "Version": 1,
+  "Hash": "0Zm1dyV6TRcYSHWrG2ezJxRa8QwS4FKREfTZiPKORBY=",
+  "Source": "QuizAPI",
+  "BasePath": "_content/QuizAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QuizAPI\\wwwroot",
+      "Source": "QuizAPI",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\210s4qznt8-1f2oqlqaa3.gz",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "favicon#[.{fingerprint=1f2oqlqaa3}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "bhcen3pmpn",
+      "Integrity": "UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\42f1pc7go9-sl60c43r8o.gz",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "robots#[.{fingerprint=sl60c43r8o}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\robots.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "cf7tisjqjl",
+      "Integrity": "2LwjXuVD1QoxWQDu8kVWDwhLPl96N16lEpz376sl/OY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\robots.txt"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\58eht4l9v4-4bysstsvp2.gz",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "manifest#[.{fingerprint=4bysstsvp2}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\manifest.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ah5td9q5fc",
+      "Integrity": "Am5wltjO2//7lPldHCrCRrSs8niamPdzuIYOpzX6E/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\manifest.json"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\7yetise8sp-td8vkb2eph.gz",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "asset-manifest#[.{fingerprint=td8vkb2eph}]?.json.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\asset-manifest.json",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "k2uhe3xuqb",
+      "Integrity": "fPxlZPXOp8U4LcIrTIHEDOsxMVsSHMZRnYrD6dAs19g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\asset-manifest.json"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\dnrtebgic5-h5k94ajfwg.gz",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/css/main.f855e6bc.css#[.{fingerprint=h5k94ajfwg}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\css\\main.f855e6bc.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "b9v5psiuy0",
+      "Integrity": "gYkUnMQXheaj/7TPd0w7Ld8Zp14ed1w4tiMdcIBOg6Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\css\\main.f855e6bc.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\ilsgdo45gp-u6sbx5nu0y.gz",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/js/main.3a5a1ef6.js.LICENSE#[.{fingerprint=u6sbx5nu0y}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js.LICENSE.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ssbd90hxuy",
+      "Integrity": "BIpTNch46guNjsLNSzF2fHkFDcTFi3PlbV4YxhUehGQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js.LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\porvshqiue-gzn1zfjpuh.gz",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/js/main.3a5a1ef6.js#[.{fingerprint=gzn1zfjpuh}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "c7l0688gd9",
+      "Integrity": "WNG87qC9Weo/tCQNFp7FFjOlwXeeIS3F7zzmaG4VwzU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\rqnmc9tre4-dad56o2st1.gz",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/css/main.f855e6bc#[.{fingerprint=dad56o2st1}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\css\\main.f855e6bc.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6dkwxhvfum",
+      "Integrity": "GoSYQ/2SuzAVX+aWnd8CR8OcsaAceBGavTnSp7YHYM0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\css\\main.f855e6bc.css"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\s2nmmtr68w-9s709l19ui.gz",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/js/main.3a5a1ef6#[.{fingerprint=9s709l19ui}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "4z2cnkw9uf",
+      "Integrity": "ECHn+Z19GkkMZxOuylTnXEBpLaMH8fb7nhVrSpAa3XE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\syqa23omi1-3hws27wine.gz",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/js/128.64f18f0e.chunk#[.{fingerprint=3hws27wine}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\128.64f18f0e.chunk.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "za873m1x7t",
+      "Integrity": "NY/jUZxDC6zBhghA74PXWjHi4lIwM93lUCy0QEcQ8xU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\128.64f18f0e.chunk.js"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\wcmyckyh8z-gzsdeg7wfa.gz",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "index#[.{fingerprint=gzsdeg7wfa}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "46nqnuhnxa",
+      "Integrity": "NIkfBTEJYnf9kyWWTCHMOEFPgfBqphehFQLJkglzcqg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\x06ijczxpy-y66cdxzd40.gz",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/js/128.64f18f0e.chunk.js#[.{fingerprint=y66cdxzd40}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\128.64f18f0e.chunk.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ehauqwv8vq",
+      "Integrity": "bqVPsPA8N3zfDLTxs7H0AOAIhfTEN7ISWU3Y7+znkeE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\128.64f18f0e.chunk.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\asset-manifest.json",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "asset-manifest#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "td8vkb2eph",
+      "Integrity": "z4NxUZZfUX6PuAdKT2iHKJ69GEp+7h1r9mCs7LL8lMg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\asset-manifest.json"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\favicon.ico",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1f2oqlqaa3",
+      "Integrity": "PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\index.html",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gzsdeg7wfa",
+      "Integrity": "BK5MZ9ZgN0m6vUpQVDV4t6p6ZSMsLjFaDWiQbaqm+ro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\logo192.png",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "logo192#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xr54by9dn2",
+      "Integrity": "w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo192.png"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\logo512.png",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "logo512#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2377xp85ga",
+      "Integrity": "nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo512.png"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\manifest.json",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "manifest#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4bysstsvp2",
+      "Integrity": "ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\manifest.json"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\robots.txt",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "robots#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sl60c43r8o",
+      "Integrity": "kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\robots.txt"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\css\\main.f855e6bc.css",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/css/main.f855e6bc#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dad56o2st1",
+      "Integrity": "e+eUa05vjuzwicOFX95+b516xdqvpTtxQGT71dAf4bM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\css\\main.f855e6bc.css"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\css\\main.f855e6bc.css.map",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/css/main.f855e6bc.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h5k94ajfwg",
+      "Integrity": "RarbGIvASLd0Oia/q9UYRGBgA2F/Kxa9azEN6DcxGhg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\css\\main.f855e6bc.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\128.64f18f0e.chunk.js",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/js/128.64f18f0e.chunk#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hws27wine",
+      "Integrity": "Z9EziKUuHtNjqiiq3n9yACAnRjFGnri6gtrmUjwQ7I0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\js\\128.64f18f0e.chunk.js"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\128.64f18f0e.chunk.js.map",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/js/128.64f18f0e.chunk.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y66cdxzd40",
+      "Integrity": "ppQOKveC/XzEDUNbnQABkf5Oypxvo/lLVmbVWegZ2hs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\js\\128.64f18f0e.chunk.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/js/main.3a5a1ef6#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9s709l19ui",
+      "Integrity": "aZRbuI96Ec8JgIpEvdLiQ4BlW2JNqS4b0SMBlMLYQXk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.3a5a1ef6.js"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js.LICENSE.txt",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/js/main.3a5a1ef6.js.LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u6sbx5nu0y",
+      "Integrity": "ircmCJ4CumD1gnOcOi/onei0RYjmS6yGUWF1d7MhW6U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.3a5a1ef6.js.LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js.map",
+      "SourceId": "QuizAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\",
+      "BasePath": "_content/QuizAPI",
+      "RelativePath": "static/js/main.3a5a1ef6.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gzn1zfjpuh",
+      "Integrity": "VMFJWAyeW+Xae30TmnEddjcEYUvB7R8kcFyZO+STlTc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.3a5a1ef6.js.map"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "asset-manifest.json",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\7yetise8sp-td8vkb2eph.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005181347150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fPxlZPXOp8U4LcIrTIHEDOsxMVsSHMZRnYrD6dAs19g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z4NxUZZfUX6PuAdKT2iHKJ69GEp+7h1r9mCs7LL8lMg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z4NxUZZfUX6PuAdKT2iHKJ69GEp+7h1r9mCs7LL8lMg="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.json",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\asset-manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z4NxUZZfUX6PuAdKT2iHKJ69GEp+7h1r9mCs7LL8lMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z4NxUZZfUX6PuAdKT2iHKJ69GEp+7h1r9mCs7LL8lMg="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.json.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\7yetise8sp-td8vkb2eph.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fPxlZPXOp8U4LcIrTIHEDOsxMVsSHMZRnYrD6dAs19g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fPxlZPXOp8U4LcIrTIHEDOsxMVsSHMZRnYrD6dAs19g="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.td8vkb2eph.json",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\7yetise8sp-td8vkb2eph.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005181347150"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fPxlZPXOp8U4LcIrTIHEDOsxMVsSHMZRnYrD6dAs19g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z4NxUZZfUX6PuAdKT2iHKJ69GEp+7h1r9mCs7LL8lMg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "td8vkb2eph"
+        },
+        {
+          "Name": "label",
+          "Value": "asset-manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z4NxUZZfUX6PuAdKT2iHKJ69GEp+7h1r9mCs7LL8lMg="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.td8vkb2eph.json",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\asset-manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "524"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z4NxUZZfUX6PuAdKT2iHKJ69GEp+7h1r9mCs7LL8lMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "td8vkb2eph"
+        },
+        {
+          "Name": "label",
+          "Value": "asset-manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z4NxUZZfUX6PuAdKT2iHKJ69GEp+7h1r9mCs7LL8lMg="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.td8vkb2eph.json.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\7yetise8sp-td8vkb2eph.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "192"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fPxlZPXOp8U4LcIrTIHEDOsxMVsSHMZRnYrD6dAs19g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "td8vkb2eph"
+        },
+        {
+          "Name": "label",
+          "Value": "asset-manifest.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fPxlZPXOp8U4LcIrTIHEDOsxMVsSHMZRnYrD6dAs19g="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.1f2oqlqaa3.ico",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\210s4qznt8-1f2oqlqaa3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000288850376"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3461"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1f2oqlqaa3"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.1f2oqlqaa3.ico",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1f2oqlqaa3"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.1f2oqlqaa3.ico.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\210s4qznt8-1f2oqlqaa3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1f2oqlqaa3"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\210s4qznt8-1f2oqlqaa3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000288850376"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3461"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PRD32mxgMXg0AIFmjErFs66XQ8qaJiqw/NMS+7n0i90="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\210s4qznt8-1f2oqlqaa3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UVZBPLXiTfe50KA+NjtkHFhvulf066aKiWoQovdXPJs="
+        }
+      ]
+    },
+    {
+      "Route": "index.gzsdeg7wfa.html",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\wcmyckyh8z-gzsdeg7wfa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002032520325"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIkfBTEJYnf9kyWWTCHMOEFPgfBqphehFQLJkglzcqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BK5MZ9ZgN0m6vUpQVDV4t6p6ZSMsLjFaDWiQbaqm+ro=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gzsdeg7wfa"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BK5MZ9ZgN0m6vUpQVDV4t6p6ZSMsLjFaDWiQbaqm+ro="
+        }
+      ]
+    },
+    {
+      "Route": "index.gzsdeg7wfa.html",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BK5MZ9ZgN0m6vUpQVDV4t6p6ZSMsLjFaDWiQbaqm+ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gzsdeg7wfa"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BK5MZ9ZgN0m6vUpQVDV4t6p6ZSMsLjFaDWiQbaqm+ro="
+        }
+      ]
+    },
+    {
+      "Route": "index.gzsdeg7wfa.html.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\wcmyckyh8z-gzsdeg7wfa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIkfBTEJYnf9kyWWTCHMOEFPgfBqphehFQLJkglzcqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gzsdeg7wfa"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NIkfBTEJYnf9kyWWTCHMOEFPgfBqphehFQLJkglzcqg="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\wcmyckyh8z-gzsdeg7wfa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002032520325"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIkfBTEJYnf9kyWWTCHMOEFPgfBqphehFQLJkglzcqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BK5MZ9ZgN0m6vUpQVDV4t6p6ZSMsLjFaDWiQbaqm+ro=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BK5MZ9ZgN0m6vUpQVDV4t6p6ZSMsLjFaDWiQbaqm+ro="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BK5MZ9ZgN0m6vUpQVDV4t6p6ZSMsLjFaDWiQbaqm+ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BK5MZ9ZgN0m6vUpQVDV4t6p6ZSMsLjFaDWiQbaqm+ro="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\wcmyckyh8z-gzsdeg7wfa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIkfBTEJYnf9kyWWTCHMOEFPgfBqphehFQLJkglzcqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NIkfBTEJYnf9kyWWTCHMOEFPgfBqphehFQLJkglzcqg="
+        }
+      ]
+    },
+    {
+      "Route": "logo192.png",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\logo192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA="
+        }
+      ]
+    },
+    {
+      "Route": "logo192.xr54by9dn2.png",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\logo192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xr54by9dn2"
+        },
+        {
+          "Name": "label",
+          "Value": "logo192.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w4Y5bscNs2CAdbX7+qxKscyqhroFpoqzk+xVHrZsPgA="
+        }
+      ]
+    },
+    {
+      "Route": "logo512.2377xp85ga.png",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\logo512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2377xp85ga"
+        },
+        {
+          "Name": "label",
+          "Value": "logo512.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE="
+        }
+      ]
+    },
+    {
+      "Route": "logo512.png",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\logo512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9664"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nqT02nBQwMxAiSb2o5wlNiTpursdQ8eXfNghRFpgtGE="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.4bysstsvp2.json",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\58eht4l9v4-4bysstsvp2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003984063745"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Am5wltjO2//7lPldHCrCRrSs8niamPdzuIYOpzX6E/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4bysstsvp2"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.4bysstsvp2.json",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4bysstsvp2"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.4bysstsvp2.json.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\58eht4l9v4-4bysstsvp2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Am5wltjO2//7lPldHCrCRrSs8niamPdzuIYOpzX6E/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4bysstsvp2"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Am5wltjO2//7lPldHCrCRrSs8niamPdzuIYOpzX6E/I="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\58eht4l9v4-4bysstsvp2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003984063745"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Am5wltjO2//7lPldHCrCRrSs8niamPdzuIYOpzX6E/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ULPYw5A68/eNhxuUVXqxT045yhkurKPSz6hjyGcnmhQ="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\58eht4l9v4-4bysstsvp2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Am5wltjO2//7lPldHCrCRrSs8niamPdzuIYOpzX6E/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Am5wltjO2//7lPldHCrCRrSs8niamPdzuIYOpzX6E/I="
+        }
+      ]
+    },
+    {
+      "Route": "robots.sl60c43r8o.txt",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\42f1pc7go9-sl60c43r8o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.012658227848"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2LwjXuVD1QoxWQDu8kVWDwhLPl96N16lEpz376sl/OY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sl60c43r8o"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+        }
+      ]
+    },
+    {
+      "Route": "robots.sl60c43r8o.txt",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sl60c43r8o"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+        }
+      ]
+    },
+    {
+      "Route": "robots.sl60c43r8o.txt.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\42f1pc7go9-sl60c43r8o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2LwjXuVD1QoxWQDu8kVWDwhLPl96N16lEpz376sl/OY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sl60c43r8o"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2LwjXuVD1QoxWQDu8kVWDwhLPl96N16lEpz376sl/OY="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\42f1pc7go9-sl60c43r8o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.012658227848"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2LwjXuVD1QoxWQDu8kVWDwhLPl96N16lEpz376sl/OY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kNJLw79pisHhc3OVAimMzKcq3x9WT6sF9IS4xI0crdI="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\42f1pc7go9-sl60c43r8o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2LwjXuVD1QoxWQDu8kVWDwhLPl96N16lEpz376sl/OY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 05:01:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2LwjXuVD1QoxWQDu8kVWDwhLPl96N16lEpz376sl/OY="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.f855e6bc.css",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\rqnmc9tre4-dad56o2st1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001937984496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GoSYQ/2SuzAVX+aWnd8CR8OcsaAceBGavTnSp7YHYM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"e+eUa05vjuzwicOFX95+b516xdqvpTtxQGT71dAf4bM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+eUa05vjuzwicOFX95+b516xdqvpTtxQGT71dAf4bM="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.f855e6bc.css",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\css\\main.f855e6bc.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "779"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+eUa05vjuzwicOFX95+b516xdqvpTtxQGT71dAf4bM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+eUa05vjuzwicOFX95+b516xdqvpTtxQGT71dAf4bM="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.f855e6bc.css.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\rqnmc9tre4-dad56o2st1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GoSYQ/2SuzAVX+aWnd8CR8OcsaAceBGavTnSp7YHYM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GoSYQ/2SuzAVX+aWnd8CR8OcsaAceBGavTnSp7YHYM0="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.f855e6bc.css.h5k94ajfwg.map",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\dnrtebgic5-h5k94ajfwg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001259445844"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gYkUnMQXheaj/7TPd0w7Ld8Zp14ed1w4tiMdcIBOg6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RarbGIvASLd0Oia/q9UYRGBgA2F/Kxa9azEN6DcxGhg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5k94ajfwg"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.f855e6bc.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RarbGIvASLd0Oia/q9UYRGBgA2F/Kxa9azEN6DcxGhg="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.f855e6bc.css.h5k94ajfwg.map",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\css\\main.f855e6bc.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RarbGIvASLd0Oia/q9UYRGBgA2F/Kxa9azEN6DcxGhg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5k94ajfwg"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.f855e6bc.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RarbGIvASLd0Oia/q9UYRGBgA2F/Kxa9azEN6DcxGhg="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.f855e6bc.css.h5k94ajfwg.map.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\dnrtebgic5-h5k94ajfwg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gYkUnMQXheaj/7TPd0w7Ld8Zp14ed1w4tiMdcIBOg6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5k94ajfwg"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.f855e6bc.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gYkUnMQXheaj/7TPd0w7Ld8Zp14ed1w4tiMdcIBOg6Q="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.f855e6bc.css.map",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\dnrtebgic5-h5k94ajfwg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001259445844"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gYkUnMQXheaj/7TPd0w7Ld8Zp14ed1w4tiMdcIBOg6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"RarbGIvASLd0Oia/q9UYRGBgA2F/Kxa9azEN6DcxGhg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RarbGIvASLd0Oia/q9UYRGBgA2F/Kxa9azEN6DcxGhg="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.f855e6bc.css.map",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\css\\main.f855e6bc.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RarbGIvASLd0Oia/q9UYRGBgA2F/Kxa9azEN6DcxGhg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RarbGIvASLd0Oia/q9UYRGBgA2F/Kxa9azEN6DcxGhg="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.f855e6bc.css.map.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\dnrtebgic5-h5k94ajfwg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gYkUnMQXheaj/7TPd0w7Ld8Zp14ed1w4tiMdcIBOg6Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gYkUnMQXheaj/7TPd0w7Ld8Zp14ed1w4tiMdcIBOg6Q="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.f855e6bc.dad56o2st1.css",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\rqnmc9tre4-dad56o2st1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001937984496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GoSYQ/2SuzAVX+aWnd8CR8OcsaAceBGavTnSp7YHYM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"e+eUa05vjuzwicOFX95+b516xdqvpTtxQGT71dAf4bM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dad56o2st1"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.f855e6bc.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+eUa05vjuzwicOFX95+b516xdqvpTtxQGT71dAf4bM="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.f855e6bc.dad56o2st1.css",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\css\\main.f855e6bc.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "779"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"e+eUa05vjuzwicOFX95+b516xdqvpTtxQGT71dAf4bM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dad56o2st1"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.f855e6bc.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-e+eUa05vjuzwicOFX95+b516xdqvpTtxQGT71dAf4bM="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.f855e6bc.dad56o2st1.css.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\rqnmc9tre4-dad56o2st1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GoSYQ/2SuzAVX+aWnd8CR8OcsaAceBGavTnSp7YHYM0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dad56o2st1"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.f855e6bc.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GoSYQ/2SuzAVX+aWnd8CR8OcsaAceBGavTnSp7YHYM0="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/128.64f18f0e.chunk.3hws27wine.js",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\syqa23omi1-3hws27wine.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000560852496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1782"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NY/jUZxDC6zBhghA74PXWjHi4lIwM93lUCy0QEcQ8xU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z9EziKUuHtNjqiiq3n9yACAnRjFGnri6gtrmUjwQ7I0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hws27wine"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/128.64f18f0e.chunk.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9EziKUuHtNjqiiq3n9yACAnRjFGnri6gtrmUjwQ7I0="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/128.64f18f0e.chunk.3hws27wine.js",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\128.64f18f0e.chunk.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9EziKUuHtNjqiiq3n9yACAnRjFGnri6gtrmUjwQ7I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hws27wine"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/128.64f18f0e.chunk.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9EziKUuHtNjqiiq3n9yACAnRjFGnri6gtrmUjwQ7I0="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/128.64f18f0e.chunk.3hws27wine.js.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\syqa23omi1-3hws27wine.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NY/jUZxDC6zBhghA74PXWjHi4lIwM93lUCy0QEcQ8xU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hws27wine"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/128.64f18f0e.chunk.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NY/jUZxDC6zBhghA74PXWjHi4lIwM93lUCy0QEcQ8xU="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/128.64f18f0e.chunk.js",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\syqa23omi1-3hws27wine.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000560852496"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1782"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NY/jUZxDC6zBhghA74PXWjHi4lIwM93lUCy0QEcQ8xU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z9EziKUuHtNjqiiq3n9yACAnRjFGnri6gtrmUjwQ7I0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9EziKUuHtNjqiiq3n9yACAnRjFGnri6gtrmUjwQ7I0="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/128.64f18f0e.chunk.js",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\128.64f18f0e.chunk.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4522"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9EziKUuHtNjqiiq3n9yACAnRjFGnri6gtrmUjwQ7I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9EziKUuHtNjqiiq3n9yACAnRjFGnri6gtrmUjwQ7I0="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/128.64f18f0e.chunk.js.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\syqa23omi1-3hws27wine.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NY/jUZxDC6zBhghA74PXWjHi4lIwM93lUCy0QEcQ8xU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NY/jUZxDC6zBhghA74PXWjHi4lIwM93lUCy0QEcQ8xU="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/128.64f18f0e.chunk.js.map",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\x06ijczxpy-y66cdxzd40.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000268889486"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3718"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bqVPsPA8N3zfDLTxs7H0AOAIhfTEN7ISWU3Y7+znkeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ppQOKveC/XzEDUNbnQABkf5Oypxvo/lLVmbVWegZ2hs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ppQOKveC/XzEDUNbnQABkf5Oypxvo/lLVmbVWegZ2hs="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/128.64f18f0e.chunk.js.map",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\128.64f18f0e.chunk.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ppQOKveC/XzEDUNbnQABkf5Oypxvo/lLVmbVWegZ2hs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ppQOKveC/XzEDUNbnQABkf5Oypxvo/lLVmbVWegZ2hs="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/128.64f18f0e.chunk.js.map.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\x06ijczxpy-y66cdxzd40.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bqVPsPA8N3zfDLTxs7H0AOAIhfTEN7ISWU3Y7+znkeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bqVPsPA8N3zfDLTxs7H0AOAIhfTEN7ISWU3Y7+znkeE="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/128.64f18f0e.chunk.js.y66cdxzd40.map",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\x06ijczxpy-y66cdxzd40.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000268889486"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3718"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bqVPsPA8N3zfDLTxs7H0AOAIhfTEN7ISWU3Y7+znkeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ppQOKveC/XzEDUNbnQABkf5Oypxvo/lLVmbVWegZ2hs=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y66cdxzd40"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/128.64f18f0e.chunk.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ppQOKveC/XzEDUNbnQABkf5Oypxvo/lLVmbVWegZ2hs="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/128.64f18f0e.chunk.js.y66cdxzd40.map",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\128.64f18f0e.chunk.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10597"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ppQOKveC/XzEDUNbnQABkf5Oypxvo/lLVmbVWegZ2hs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y66cdxzd40"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/128.64f18f0e.chunk.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ppQOKveC/XzEDUNbnQABkf5Oypxvo/lLVmbVWegZ2hs="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/128.64f18f0e.chunk.js.y66cdxzd40.map.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\x06ijczxpy-y66cdxzd40.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3718"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bqVPsPA8N3zfDLTxs7H0AOAIhfTEN7ISWU3Y7+znkeE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y66cdxzd40"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/128.64f18f0e.chunk.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bqVPsPA8N3zfDLTxs7H0AOAIhfTEN7ISWU3Y7+znkeE="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.9s709l19ui.js",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\s2nmmtr68w-9s709l19ui.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000006387368"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156558"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ECHn+Z19GkkMZxOuylTnXEBpLaMH8fb7nhVrSpAa3XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aZRbuI96Ec8JgIpEvdLiQ4BlW2JNqS4b0SMBlMLYQXk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9s709l19ui"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.3a5a1ef6.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZRbuI96Ec8JgIpEvdLiQ4BlW2JNqS4b0SMBlMLYQXk="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.9s709l19ui.js",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "505845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZRbuI96Ec8JgIpEvdLiQ4BlW2JNqS4b0SMBlMLYQXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9s709l19ui"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.3a5a1ef6.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZRbuI96Ec8JgIpEvdLiQ4BlW2JNqS4b0SMBlMLYQXk="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.9s709l19ui.js.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\s2nmmtr68w-9s709l19ui.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ECHn+Z19GkkMZxOuylTnXEBpLaMH8fb7nhVrSpAa3XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9s709l19ui"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.3a5a1ef6.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ECHn+Z19GkkMZxOuylTnXEBpLaMH8fb7nhVrSpAa3XE="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\s2nmmtr68w-9s709l19ui.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000006387368"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156558"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ECHn+Z19GkkMZxOuylTnXEBpLaMH8fb7nhVrSpAa3XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aZRbuI96Ec8JgIpEvdLiQ4BlW2JNqS4b0SMBlMLYQXk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZRbuI96Ec8JgIpEvdLiQ4BlW2JNqS4b0SMBlMLYQXk="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "505845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZRbuI96Ec8JgIpEvdLiQ4BlW2JNqS4b0SMBlMLYQXk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZRbuI96Ec8JgIpEvdLiQ4BlW2JNqS4b0SMBlMLYQXk="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\s2nmmtr68w-9s709l19ui.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "156558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ECHn+Z19GkkMZxOuylTnXEBpLaMH8fb7nhVrSpAa3XE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ECHn+Z19GkkMZxOuylTnXEBpLaMH8fb7nhVrSpAa3XE="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.gzn1zfjpuh.map",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\porvshqiue-gzn1zfjpuh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000001519646"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658047"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WNG87qC9Weo/tCQNFp7FFjOlwXeeIS3F7zzmaG4VwzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VMFJWAyeW+Xae30TmnEddjcEYUvB7R8kcFyZO+STlTc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gzn1zfjpuh"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.3a5a1ef6.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMFJWAyeW+Xae30TmnEddjcEYUvB7R8kcFyZO+STlTc="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.gzn1zfjpuh.map",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2714254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMFJWAyeW+Xae30TmnEddjcEYUvB7R8kcFyZO+STlTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gzn1zfjpuh"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.3a5a1ef6.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMFJWAyeW+Xae30TmnEddjcEYUvB7R8kcFyZO+STlTc="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.gzn1zfjpuh.map.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\porvshqiue-gzn1zfjpuh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WNG87qC9Weo/tCQNFp7FFjOlwXeeIS3F7zzmaG4VwzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gzn1zfjpuh"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.3a5a1ef6.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WNG87qC9Weo/tCQNFp7FFjOlwXeeIS3F7zzmaG4VwzU="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.LICENSE.txt",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\ilsgdo45gp-u6sbx5nu0y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003846153846"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BIpTNch46guNjsLNSzF2fHkFDcTFi3PlbV4YxhUehGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ircmCJ4CumD1gnOcOi/onei0RYjmS6yGUWF1d7MhW6U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ircmCJ4CumD1gnOcOi/onei0RYjmS6yGUWF1d7MhW6U="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.LICENSE.txt",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ircmCJ4CumD1gnOcOi/onei0RYjmS6yGUWF1d7MhW6U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ircmCJ4CumD1gnOcOi/onei0RYjmS6yGUWF1d7MhW6U="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.LICENSE.txt.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\ilsgdo45gp-u6sbx5nu0y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BIpTNch46guNjsLNSzF2fHkFDcTFi3PlbV4YxhUehGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BIpTNch46guNjsLNSzF2fHkFDcTFi3PlbV4YxhUehGQ="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.LICENSE.u6sbx5nu0y.txt",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\ilsgdo45gp-u6sbx5nu0y.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003846153846"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BIpTNch46guNjsLNSzF2fHkFDcTFi3PlbV4YxhUehGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ircmCJ4CumD1gnOcOi/onei0RYjmS6yGUWF1d7MhW6U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6sbx5nu0y"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.3a5a1ef6.js.LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ircmCJ4CumD1gnOcOi/onei0RYjmS6yGUWF1d7MhW6U="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.LICENSE.u6sbx5nu0y.txt",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ircmCJ4CumD1gnOcOi/onei0RYjmS6yGUWF1d7MhW6U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6sbx5nu0y"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.3a5a1ef6.js.LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ircmCJ4CumD1gnOcOi/onei0RYjmS6yGUWF1d7MhW6U="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.LICENSE.u6sbx5nu0y.txt.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\ilsgdo45gp-u6sbx5nu0y.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BIpTNch46guNjsLNSzF2fHkFDcTFi3PlbV4YxhUehGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u6sbx5nu0y"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.3a5a1ef6.js.LICENSE.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BIpTNch46guNjsLNSzF2fHkFDcTFi3PlbV4YxhUehGQ="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.map",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\porvshqiue-gzn1zfjpuh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000001519646"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658047"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WNG87qC9Weo/tCQNFp7FFjOlwXeeIS3F7zzmaG4VwzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VMFJWAyeW+Xae30TmnEddjcEYUvB7R8kcFyZO+STlTc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMFJWAyeW+Xae30TmnEddjcEYUvB7R8kcFyZO+STlTc="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.map",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a5a1ef6.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2714254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VMFJWAyeW+Xae30TmnEddjcEYUvB7R8kcFyZO+STlTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VMFJWAyeW+Xae30TmnEddjcEYUvB7R8kcFyZO+STlTc="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.3a5a1ef6.js.map.gz",
+      "AssetFile": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\obj\\Release\\net9.0\\compressed\\porvshqiue-gzn1zfjpuh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658047"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WNG87qC9Weo/tCQNFp7FFjOlwXeeIS3F7zzmaG4VwzU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 08:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WNG87qC9Weo/tCQNFp7FFjOlwXeeIS3F7zzmaG4VwzU="
+        }
+      ]
+    }
+  ]
+}

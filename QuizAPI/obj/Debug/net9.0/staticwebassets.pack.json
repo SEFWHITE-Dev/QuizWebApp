@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\css\\main.f855e6bc.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.f855e6bc.css"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\css\\main.f855e6bc.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.f855e6bc.css.map"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\128.64f18f0e.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\128.64f18f0e.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\128.64f18f0e.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\128.64f18f0e.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a950370.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.3a950370.js"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a950370.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.3a950370.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\shota\\OneDrive\\Documents\\GitHub\\C#\\ReactNetCore\\QuizAPI\\wwwroot\\static\\js\\main.3a950370.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.3a950370.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.QuizAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.QuizAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.QuizAPI.props",
+      "PackagePath": "build\\QuizAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.QuizAPI.props",
+      "PackagePath": "buildMultiTargeting\\QuizAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.QuizAPI.props",
+      "PackagePath": "buildTransitive\\QuizAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
